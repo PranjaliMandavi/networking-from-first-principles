@@ -10,6 +10,7 @@ https://medium.com/@PranjaliMandavi/list/networking-series-3bc3c424bc7e
 ## Published Articles
 
 Title
+
 ##1 Before the Internet: When Information Could Only Travel Fast as a Horse
 
 ##2 The Telegraph: Humanity's First Attempt to Free Information
