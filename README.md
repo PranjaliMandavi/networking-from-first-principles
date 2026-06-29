@@ -11,19 +11,19 @@ https://medium.com/@PranjaliMandavi/list/networking-series-3bc3c424bc7e
 
 Title
 
-1 Before the Internet: When Information Could Only Travel Fast as a Horse
+1. Before the Internet: When Information Could Only Travel Fast as a Horse
 
-2 The Telegraph: Humanity's First Attempt to Free Information
+2. The Telegraph: Humanity's First Attempt to Free Information
 
-3 If the Telegraph Worked, Why Did We Need the Telephone?
+3. If the Telegraph Worked, Why Did We Need the Telephone?
 
-4 What Exactly Is a Voice? The Question That Made the Telephone Possible
+4. What Exactly Is a Voice? The Question That Made the Telephone Possible
 
-5 The Telephone's Greatest Idea: It Never Sends Your Voice
+5. The Telephone's Greatest Idea: It Never Sends Your Voice
 
-6 Computers Don't Understand Cats: The Real Language of Computers
+6. Computers Don't Understand Cats: The Real Language of Computers
 
-7 Why Do Computers Speak Only 0 and 1?
+7. Why Do Computers Speak Only 0 and 1?
 
 About
 
