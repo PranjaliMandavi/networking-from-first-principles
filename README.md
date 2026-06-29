@@ -2,12 +2,15 @@
 
 A technical article series exploring computer networking from first principles. Rather than starting with protocols or the OSI model, the series builds a conceptual understanding by examining the historical evolution, engineering challenges, and fundamental ideas that shaped modern computer networks.
 
-Series: Networking from First Principles
-Platform: Medium
+## Series: Networking from First Principles
 
-Published Articles
+## Platform: Medium
+https://medium.com/@PranjaliMandavi/list/networking-series-3bc3c424bc7e
+------
 
-#| Title
+## Published Articles
+
+## Title
 1| Before the Internet: When Information Could Only Travel Fast as a Horse
 2| The Telegraph: Humanity's First Attempt to Free Information
 3| If the Telegraph Worked, Why Did We Need the Telephone?
