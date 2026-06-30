@@ -30,6 +30,9 @@ https://medium.com/@PranjaliMandavi/computers-dont-understand-cats-the-real-lang
 7. Why Do Computers Speak Only 0 and 1?
 https://medium.com/@PranjaliMandavi/why-do-computers-speak-only-0-and-1-55da27933710
 
+8. How Does the Letter “A” Become 01000001?
+https://medium.com/@PranjaliMandavi/how-does-the-letter-a-become-01000001-c2e88fad02e4
+
 ## About
 
 This repository serves as the central index for the Networking from First Principles series. Each article explores the concepts, technologies, and engineering decisions that collectively led to the development of modern computer networking.
