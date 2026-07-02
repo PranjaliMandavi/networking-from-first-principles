@@ -33,6 +33,9 @@ https://medium.com/@PranjaliMandavi/why-do-computers-speak-only-0-and-1-55da2793
 8. How Does the Letter “A” Become 01000001?
 https://medium.com/@PranjaliMandavi/how-does-the-letter-a-become-01000001-c2e88fad02e4
 
+9. If Everything Becomes Binary, How Does It Actually Travel?
+https://medium.com/@PranjaliMandavi/if-everything-becomes-binary-how-does-it-actually-travel-69ac7e6ea363
+
 ## About
 
 This repository serves as the central index for the Networking from First Principles series. Each article explores the concepts, technologies, and engineering decisions that collectively led to the development of modern computer networking.
