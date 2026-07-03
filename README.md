@@ -36,6 +36,8 @@ https://medium.com/@PranjaliMandavi/how-does-the-letter-a-become-01000001-c2e88f
 9. If Everything Becomes Binary, How Does It Actually Travel?
 https://medium.com/@PranjaliMandavi/if-everything-becomes-binary-how-does-it-actually-travel-69ac7e6ea363
 
+10. If There Is No Wire, What Is Actually Travelling?
+https://medium.com/@PranjaliMandavi/if-there-is-no-wire-what-is-actually-travelling-bd6239ce79b5
 ## About
 
 This repository serves as the central index for the Networking from First Principles series. Each article explores the concepts, technologies, and engineering decisions that collectively led to the development of modern computer networking.
