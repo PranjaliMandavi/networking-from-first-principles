@@ -38,6 +38,10 @@ https://medium.com/@PranjaliMandavi/if-everything-becomes-binary-how-does-it-act
 
 10. If There Is No Wire, What Is Actually Travelling?
 https://medium.com/@PranjaliMandavi/if-there-is-no-wire-what-is-actually-travelling-bd6239ce79b5
+
+11. What Is a Network? And Why Did We Need One?
+https://medium.com/@PranjaliMandavi/what-is-a-network-and-why-did-we-need-one-09b90242e127
+
 ## About
 
 This repository serves as the central index for the Networking from First Principles series. Each article explores the concepts, technologies, and engineering decisions that collectively led to the development of modern computer networking.
