@@ -45,6 +45,9 @@ https://medium.com/@PranjaliMandavi/what-is-a-network-and-why-did-we-need-one-09
 12. Every House Has an Address. Computers Need One Too. 
 https://medium.com/@PranjaliMandavi/every-house-has-an-address-computers-need-one-too-8f605a39ac85
 
+13. How Does a Message Find the Right Path?
+https://medium.com/@PranjaliMandavi/how-does-a-message-find-the-right-path-10a495fe35e2
+
 ## About
 
 This repository serves as the central index for the Networking from First Principles series. Each article explores the concepts, technologies, and engineering decisions that collectively led to the development of modern computer networking.
