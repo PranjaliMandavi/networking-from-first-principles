@@ -48,6 +48,10 @@ https://medium.com/@PranjaliMandavi/every-house-has-an-address-computers-need-on
 13. How Does a Message Find the Right Path?
 https://medium.com/@PranjaliMandavi/how-does-a-message-find-the-right-path-10a495fe35e2
 
+14. Why Was ARPANET Created?
+https://medium.com/@PranjaliMandavi/why-was-arpanet-created-5652d5d2a6b6
+
+
 ## About
 
 This repository serves as the central index for the Networking from First Principles series. Each article explores the concepts, technologies, and engineering decisions that collectively led to the development of modern computer networking.
