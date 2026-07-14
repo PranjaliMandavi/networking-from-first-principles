@@ -63,6 +63,8 @@ https://medium.com/@PranjaliMandavi/how-the-internet-was-born-e9cf3cd09995
 18. What Is the Internet, Really?
 https://medium.com/@PranjaliMandavi/what-is-the-internet-really-28b21e509fa6
 
+19. You Typed "www.google.com"... Now What?
+https://medium.com/@PranjaliMandavi/you-typed-www-google-com-now-what-9b1bb1495a9a
 
 ## About
 
