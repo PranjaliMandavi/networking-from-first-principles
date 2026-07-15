@@ -66,6 +66,9 @@ https://medium.com/@PranjaliMandavi/what-is-the-internet-really-28b21e509fa6
 19. You Typed "www.google.com"... Now What?
 https://medium.com/@PranjaliMandavi/you-typed-www-google-com-now-what-9b1bb1495a9a
 
+20. Who Knows Where Google Lives?
+https://medium.com/@PranjaliMandavi/who-knows-where-google-lives-759d2d4a62b1
+
 ## About
 
 This repository serves as the central index for the Networking from First Principles series. Each article explores the concepts, technologies, and engineering decisions that collectively led to the development of modern computer networking.
