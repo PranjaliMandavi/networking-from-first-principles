@@ -72,6 +72,9 @@ https://medium.com/@PranjaliMandavi/who-knows-where-google-lives-759d2d4a62b1
 21. Your Packet Is Ready… But How Does It Leave Your Laptop?
 https://medium.com/@PranjaliMandavi/your-packet-is-ready-but-how-does-it-leave-your-laptop-a0d13580cae2
 
+22. How Does Your Laptop Find the Router?
+https://medium.com/@PranjaliMandavi/how-does-your-laptop-find-the-router-63c554c8c73a
+
 ## About
 
 This repository serves as the central index for the Networking from First Principles series. Each article explores the concepts, technologies, and engineering decisions that collectively led to the development of modern computer networking.
