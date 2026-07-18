@@ -75,6 +75,9 @@ https://medium.com/@PranjaliMandavi/your-packet-is-ready-but-how-does-it-leave-y
 22. How Does Your Laptop Find the Router?
 https://medium.com/@PranjaliMandavi/how-does-your-laptop-find-the-router-63c554c8c73a
 
+23. Your Packet Has Reached the Router… Now What?
+https://medium.com/@PranjaliMandavi/your-packet-has-reached-the-router-now-what-cd822b2ef315
+
 ## About
 
 This repository serves as the central index for the Networking from First Principles series. Each article explores the concepts, technologies, and engineering decisions that collectively led to the development of modern computer networking.
