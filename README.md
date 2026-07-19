@@ -78,6 +78,9 @@ https://medium.com/@PranjaliMandavi/how-does-your-laptop-find-the-router-63c554c
 23. Your Packet Has Reached the Router… Now What?
 https://medium.com/@PranjaliMandavi/your-packet-has-reached-the-router-now-what-cd822b2ef315
 
+24. Your Packet Left Home… Who Took It Next?
+https://medium.com/@PranjaliMandavi/your-packet-left-home-who-took-it-next-76ddf9d22fd2
+
 ## About
 
 This repository serves as the central index for the Networking from First Principles series. Each article explores the concepts, technologies, and engineering decisions that collectively led to the development of modern computer networking.
