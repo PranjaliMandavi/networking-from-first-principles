@@ -84,6 +84,9 @@ https://medium.com/@PranjaliMandavi/your-packet-left-home-who-took-it-next-76ddf
 25. Your ISP Doesn’t Own the Internet
 https://medium.com/@PranjaliMandavi/your-isp-doesnt-own-the-internet-fc3bc6b067dc
 
+26. Before Sending Data, Computers First Say “Hello”
+https://medium.com/@PranjaliMandavi/before-sending-data-computers-first-say-hello-9048cd21e371
+
 ## About
 
 This repository serves as the central index for the Networking from First Principles series. Each article explores the concepts, technologies, and engineering decisions that collectively led to the development of modern computer networking.
