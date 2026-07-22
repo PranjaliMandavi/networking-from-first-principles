@@ -87,6 +87,9 @@ https://medium.com/@PranjaliMandavi/your-isp-doesnt-own-the-internet-fc3bc6b067d
 26. Before Sending Data, Computers First Say “Hello”
 https://medium.com/@PranjaliMandavi/before-sending-data-computers-first-say-hello-9048cd21e371
 
+27. What If Someone Reads Your Packets?
+https://medium.com/@PranjaliMandavi/what-if-someone-reads-your-packets-da235f14d740
+
 ## About
 
 This repository serves as the central index for the Networking from First Principles series. Each article explores the concepts, technologies, and engineering decisions that collectively led to the development of modern computer networking.
