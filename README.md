@@ -90,6 +90,8 @@ https://medium.com/@PranjaliMandavi/before-sending-data-computers-first-say-hell
 27. What If Someone Reads Your Packets?
 https://medium.com/@PranjaliMandavi/what-if-someone-reads-your-packets-da235f14d740
 
+28. article to be added soon
+
 ## About
 
 This repository serves as the central index for the Networking from First Principles series. Each article explores the concepts, technologies, and engineering decisions that collectively led to the development of modern computer networking.
