@@ -90,7 +90,8 @@ https://medium.com/@PranjaliMandavi/before-sending-data-computers-first-say-hell
 27. What If Someone Reads Your Packets?
 https://medium.com/@PranjaliMandavi/what-if-someone-reads-your-packets-da235f14d740
 
-28. article to be added soon
+28. Your Browser Finally Speaks
+https://medium.com/@PranjaliMandavi/your-browser-finally-speaks-01a74a64f296
 
 ## About
 
