@@ -93,6 +93,9 @@ https://medium.com/@PranjaliMandavi/what-if-someone-reads-your-packets-da235f14d
 28. Your Browser Finally Speaks
 https://medium.com/@PranjaliMandavi/your-browser-finally-speaks-01a74a64f296
 
+29. If Google Sends Mostly Text… Why Does the Website Look So Beautiful?
+https://medium.com/@PranjaliMandavi/if-google-sends-mostly-text-why-does-the-website-look-so-beautiful-b189e8a95b34
+
 ## About
 
 This repository serves as the central index for the Networking from First Principles series. Each article explores the concepts, technologies, and engineering decisions that collectively led to the development of modern computer networking.
