@@ -99,6 +99,9 @@ https://medium.com/@PranjaliMandavi/if-google-sends-mostly-text-why-does-the-web
 30. What If a Packet Never Arrives?
 https://medium.com/@PranjaliMandavi/what-if-a-packet-never-arrives-b865483af8c3
 
+31. How Does Your Computer Know Which Packet Is Missing?
+https://medium.com/@PranjaliMandavi/how-does-your-computer-know-which-packet-is-missing-36a97c144e6b
+
 ## About
 
 This repository serves as the central index for the Networking from First Principles series. Each article explores the concepts, technologies, and engineering decisions that collectively led to the development of modern computer networking.
