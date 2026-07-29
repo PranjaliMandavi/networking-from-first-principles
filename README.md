@@ -105,6 +105,9 @@ https://medium.com/@PranjaliMandavi/how-does-your-computer-know-which-packet-is-
 32. Why Doesn’t TCP Wait After Every Packet?
 https://medium.com/@PranjaliMandavi/why-doesnt-tcp-wait-after-every-packet-0aa8d8873599
 
+33. What If the Receiver Can’t Keep Up?
+https://medium.com/@PranjaliMandavi/what-if-the-receiver-cant-keep-up-51fbacb3f812
+
 ## About
 
 This repository serves as the central index for the Networking from First Principles series. Each article explores the concepts, technologies, and engineering decisions that collectively led to the development of modern computer networking.
