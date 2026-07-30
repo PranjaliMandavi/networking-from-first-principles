@@ -108,6 +108,9 @@ https://medium.com/@PranjaliMandavi/why-doesnt-tcp-wait-after-every-packet-0aa8d
 33. What If the Receiver Can’t Keep Up?
 https://medium.com/@PranjaliMandavi/what-if-the-receiver-cant-keep-up-51fbacb3f812
 
+34. What If the Internet Itself Becomes Busy?
+https://medium.com/@PranjaliMandavi/what-if-the-internet-itself-becomes-busy-1173031e0cc4
+
 ## About
 
 This repository serves as the central index for the Networking from First Principles series. Each article explores the concepts, technologies, and engineering decisions that collectively led to the development of modern computer networking.
