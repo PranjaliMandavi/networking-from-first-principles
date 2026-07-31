@@ -111,6 +111,9 @@ https://medium.com/@PranjaliMandavi/what-if-the-receiver-cant-keep-up-51fbacb3f8
 34. What If the Internet Itself Becomes Busy?
 https://medium.com/@PranjaliMandavi/what-if-the-internet-itself-becomes-busy-1173031e0cc4
 
+35. If TCP Is So Reliable, Why Does UDP Even Exist?
+https://medium.com/@PranjaliMandavi/if-tcp-is-so-reliable-why-does-udp-even-exist-e94052914914
+
 ## About
 
 This repository serves as the central index for the Networking from First Principles series. Each article explores the concepts, technologies, and engineering decisions that collectively led to the development of modern computer networking.
