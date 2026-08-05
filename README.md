@@ -114,6 +114,9 @@ https://medium.com/@PranjaliMandavi/what-if-the-internet-itself-becomes-busy-117
 35. If TCP Is So Reliable, Why Does UDP Even Exist?
 https://medium.com/@PranjaliMandavi/if-tcp-is-so-reliable-why-does-udp-even-exist-e94052914914
 
+36. How Can a Video Call Continue Even When Packets Are Lost?
+https://medium.com/@PranjaliMandavi/how-can-a-video-call-continue-even-when-packets-are-lost-f7eed12511c9
+
 ## About
 
 This repository serves as the central index for the Networking from First Principles series. Each article explores the concepts, technologies, and engineering decisions that collectively led to the development of modern computer networking.
