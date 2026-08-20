@@ -117,6 +117,9 @@ https://medium.com/@PranjaliMandavi/if-tcp-is-so-reliable-why-does-udp-even-exis
 36. How Can a Video Call Continue Even When Packets Are Lost?
 https://medium.com/@PranjaliMandavi/how-can-a-video-call-continue-even-when-packets-are-lost-f7eed12511c9
 
+37. How Can Netflix Play a Movie Before Downloading It?
+https://medium.com/@PranjaliMandavi/how-can-netflix-play-a-movie-before-downloading-it-e352f4a70d2e
+
 ## About
 
 This repository serves as the central index for the Networking from First Principles series. Each article explores the concepts, technologies, and engineering decisions that collectively led to the development of modern computer networking.
